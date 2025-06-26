@@ -1,1 +1,1 @@
-This web is done with html and css, a part of the code is extracted from internet, so somethings may be redundant or not so efficient
+This web is done with html and css, a part of the code is extracted from internet, so somethings may be redundant or not so efficient. Almost no part of it is mine, I just tweaked some parts to acomodate what I wanted to show better
